@@ -1,0 +1,1 @@
+Схема и таблица в Vertica - STV2024031238__DWH.global_metrics
