@@ -4,8 +4,8 @@
 Цель проекта:
 Построить пайплайн для выгрузки данных из S3 в DWH Vertica с помощью DAG в Airflow и построения витрин в Metabase.
 
-Архитектура итогового решения выглядит так:
-![Image alt](https://github.com/Sviridova-Olga/de-project-final/tree/main/src/img/de-final.jpg)  
+Архитектура итогового решения выглядит так:  
+![image](https://github.com/Sviridova-Olga/de-project-final/tree/main/src/img/de-final.jpg)  
 Входные данные:  
 Данные transactions содержат в себе информацию о движении денежных средств между клиентами в разных валютах.  
 Данные сurrencies — это справочник, который содержит в себе информацию об обновлениях курсов валют и взаимоотношениях валютных пар друг с другом.
